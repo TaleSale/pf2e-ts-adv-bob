@@ -1,0 +1,32 @@
+{
+  "id": "pf2e-ts-adv-bob",
+  "title": "PF2E-TS-ADV (Бастион Богохульства)",
+  "description": "Дополнение для АП Бастион Богохульства",
+  "version": "1.0.1",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "7.1.0"
+        }
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "TaleSale",
+      "url": "https://discord.gg/jYvjzn5",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/TaleSale/pf2e-ts-adv-bob",
+  "manifest": "https://raw.githubusercontent.com/TaleSale/pf2e-ts-adv-bob/main/module.json",
+  "download": "https://github.com/TaleSale/pf2e-ts-adv-bob/archive/refs/heads/main.zip"
+}
