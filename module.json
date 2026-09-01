@@ -2,7 +2,7 @@
   "id": "pf2e-ts-adv-bob",
   "title": "PF2E-TS-ADV (Бастион Богохульства)",
   "description": "Дополнение для АП Бастион Богохульства",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "relationships": {
     "systems": [
       {
